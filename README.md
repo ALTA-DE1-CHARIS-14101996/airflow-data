@@ -1,1 +1,1 @@
-This repo contain ETL work use airflow, dbt, postgresql, and docker
+This repo contain ETL work use pyhton, airflow, dbt, postgresql, and docker
